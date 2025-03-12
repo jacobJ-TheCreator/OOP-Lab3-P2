@@ -7,7 +7,7 @@ public class KeyNotFoundException extends Exception {
     
     /**
      * Constructs a new KeyNotFoundException with the specified detail message.
-     *
+     *s
      * @param message the detail message
      */
     public KeyNotFoundException(String message) {

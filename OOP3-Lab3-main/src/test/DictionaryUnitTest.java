@@ -1,6 +1,4 @@
-/**
- * 
- */
+//OOP Lab 3 part 2 starter code/**
 package testDictionary;
 
 import static org.junit.Assert.*;
